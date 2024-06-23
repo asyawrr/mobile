@@ -6,5 +6,17 @@
 
 Чек-лист написан в формате таблицы в Google sheets, тест-кейсы составлены в QASE и экспортированы в формате PDF. Ниже находятся ссылки, где можно ознакомиться с составленной документацией.
 
-[Чек-лист](https://docs.google.com/spreadsheets/d/1RAyEGq-GDO4vHSChMabw4VA2gcYbjLOlin4Fglk9om4/edit?usp=sharing) <br>
+[Чек-лист](https://docs.google.com/spreadsheets/d/1RAyEGq-GDO4vHSChMabw4VA2gcYbjLOlin4Fglk9om4/edit?gid=1882611766#gid=1882611766) <br>
 [Тест-кейсы](https://github.com/user-attachments/files/15816216/Test-cases.mobile.pdf)
+
+## Тестирование мобильного приложения
+
+Тестирование мобильного приложения производилось с использованием проверок в составленном ранее чек-листе и созданием тестового прогона в QASE на основе ранее составленных тест-кейсов. По результату тестирования был составлен отчет о тестировании.
+
+
+[Тестовый прогон QASE](https://github.com/user-attachments/files/15945771/Shop-list.Test.Run.QASE.pdf) <br>
+[Составленные баг-репорты](https://docs.google.com/spreadsheets/d/1bKLe-5TvaZkwaZVPa7jskA6FakjcuCs2uy38L5nvsQ8/edit?gid=1144273340#gid=1144273340)<br>
+[Отчет о тестировании](https://github.com/user-attachments/files/15945780/Shopping.List.pdf)
+
+
+
